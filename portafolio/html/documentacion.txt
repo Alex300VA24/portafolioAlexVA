@@ -1,0 +1,35 @@
+En <head> se encontraran los metadatos
+- <title>
+
+- <meta> 
+
+Metadatos:
+
+<meta name="description" content="">
+resumen del sitio web
+
+Atributos:
+
+los atributos deben ir con comillas para seguir lo estandar y evitar problemas
+
+<headear> --Z encabezados
+
+<div> ----> para agrupar y poder cambiar propiedades a las etiquetas que integran ese grupo
+
+Colores:
+
+existe 140 colores aceptadors por los navegadores
+
+Tipografia:
+
+Diseño de letras
+
+Espacios en blanco:
+
+struct Nodo{
+	
+
+
+}
+#include<iostream>
+
